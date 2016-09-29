@@ -1,0 +1,15 @@
+li {
+  display: inline-block;
+  height: 80px;
+  list-style-type: none;
+  margin: 2em;
+  width: 80px;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+section {
+  display: inline-block;
+}
